@@ -11,6 +11,8 @@ sales_report = [
 
 if __name__ == "__main__":
 
+f=sales_report["Month"]
+
     print("------------------")
     print("PROCESSING SALES REPORT DATA...")
     print("------------------")
